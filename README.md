@@ -1,4 +1,4 @@
-Platron Atol SDK
+Atol SDK
 ===============
 ## Установка
 
